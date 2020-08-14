@@ -1,7 +1,8 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/CV_QianHu.pdf
+#permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
