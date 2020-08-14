@@ -11,4 +11,4 @@ author: 'test'
 ---
 In this article, we develop a method to decompose the circular polarizations of GWs produced during the inspiralling stage of compact binaries with the help of stationary phase approximation. By comparing velocities of circular polarizations of GWs, we can give a test on the parity symmetry in gravity: the lower limit of the energy scale of parity violation can be constrained within $\mathcal{O}(10^4)$eV.
 
-[[Download paper here](https://arxiv.org/abs/1909.13007)]
+[Arxiv link](https://arxiv.org/abs/1909.13007)
