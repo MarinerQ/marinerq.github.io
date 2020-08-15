@@ -44,7 +44,7 @@
           {% if post.venue %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
           {% elsif post.submit %}
-            <p>Submitted to <i>{{ post.submit }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+            <p>Submitted to <i>{{ post.submit }}</i> </p>
           {% elsif post.inprep %}
             <p>In preparation </p>
           {% endif %}
@@ -63,7 +63,7 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      <p> <a href=" {{ post.paperurl }} "><u>{{ post.paperurl }}</u></a></p>
     {% endif %}
 
     {% if post.authors %}
