@@ -45,10 +45,10 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          {% if post.submit %}
-            <p>Submitted to <i>{{ post.submit }}</i> </p>
-          {% elsif post.venue %}
+          {% if post.venue %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif post.submit %}
+            <p>Submitted to <i>{{ post.submit }}</i> </p>
           {% elsif post.inprep %}
             <p>In preparation </p>
           {% endif %}
