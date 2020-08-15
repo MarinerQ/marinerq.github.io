@@ -13,4 +13,7 @@ main:
   - title: "CV"
     url: /cv/
     #url: /files/CV_QianHu.pdf
+
+  - title: "test"
+    url: /test/
     

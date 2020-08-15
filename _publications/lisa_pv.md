@@ -14,4 +14,4 @@ In this work, we investigated the constraint on parity-violating (PV) gravity gi
 
 Submitted to Science Bulletin, still under revision. 
 
-[Arxiv link](https://arxiv.org/abs/2006.05670v2)
+[arXiv link](https://arxiv.org/abs/2006.05670v2)

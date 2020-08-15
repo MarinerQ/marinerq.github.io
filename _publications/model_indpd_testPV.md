@@ -13,4 +13,4 @@ In this article, we develop a method to decompose the circular polarizations of 
 
 ---
 
-[Arxiv link](https://arxiv.org/abs/1909.13007)
+[arXiv link](https://arxiv.org/abs/1909.13007)
