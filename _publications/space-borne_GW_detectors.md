@@ -16,6 +16,6 @@ In this work, we investigated the constraint on parity-violating (PV) gravity gi
 
 Submitted to Science Bulletin, still under revision. 
 
-Update: We are going to submit a new version of this paper, $\textit{Joint Observations of Space-borne Gravitational-wave Detectors: Source Localization and Implication for Parity-violating Gravities}$.
+Update: We are going to submit a new version of this paper: Joint Observations of Space-borne Gravitational-wave Detectors: Source Localization and Implication for Parity-violating Gravities.
 
 [arXiv link](https://arxiv.org/abs/2006.05670v2)
