@@ -8,4 +8,4 @@ date: 2020-09-01
 location: "Hefei, China"
 ---
 
-As Member of a national virtual simulation experimental teaching project, I participated in designing and developing an application of GW data simulation, data analysis and Bayesian statistics in GW astronomy for physical experiment teaching. The software will be employed in experimental teaching in USTC in 2021.
+As a member of a national virtual simulation experimental teaching project, I participated in designing and developing an educational application of GW data simulation, data analysis and Bayesian parameter estimation in GW astronomy for physical experiment teaching. The software will be employed in experimental teaching in USTC in 2021.
