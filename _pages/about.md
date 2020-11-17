@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I'm a senior student in University of Science and Technology of China (USTC), majoring in astrophysics. I'm interested in gravitational-wave astronomy --- including both data analysis and physical implications of gravitational-waves. 
+I'm a senior student at University of Science and Technology of China (USTC), majoring in astrophysics. I'm interested in gravitational-wave astronomy --- including both data analysis and physical implications of gravitational-waves. 
 
-This homepage is still under construction...
