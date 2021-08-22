@@ -8,4 +8,4 @@ date: 2020-09-01
 location: "Hefei, China"
 ---
 
-I'm the teaching assistant of this course. My duty is to Correct homework, answer questions and give refresher classes.
+Teaching assistant.

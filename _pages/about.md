@@ -9,5 +9,5 @@ redirect_from:
 ---
 Welcome to my still-under-construction personal homepage!
 
-I'm a PhD student at University of Glasgow, [Institute for Gravitational Research](http://www.physics.gla.ac.uk/igr/index.php). I'm interested in parameter estimation and data analysis in gravitational astronomy. Before coming to Glasgow, I was an undergraduate at University of Science and Technology of China (USTC) majoring in astrophysics. 
+I'm a PhD student at University of Glasgow, [Institute for Gravitational Research](http://www.physics.gla.ac.uk/igr/index.php). I'm interested in parameter estimation and data analysis in gravitational-wave astronomy. Before coming to Glasgow, I was an undergraduate at University of Science and Technology of China (USTC) majoring in astrophysics. 
 
