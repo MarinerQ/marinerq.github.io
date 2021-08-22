@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qian Hu's Homepage!"
+title                    : "Qian Hu's Homepage"
 title_separator          : "-"
 name                     : &name "Qian Hu"
 description              : &description "personal description"
