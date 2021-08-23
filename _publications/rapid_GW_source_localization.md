@@ -2,7 +2,7 @@
 title: "Semi-analytical Approach for Sky Localization of Gravitational Waves"
 collection: publications
 #permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'A fast algorithm for GW source localizatoin. '
+excerpt: '    A fast algorithm for GW source localizatoin. '
 date: 2020-11-17
 #venue: ''
 submit: 'Physical Review D'

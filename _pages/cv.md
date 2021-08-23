@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "CV"
-permalink: /files/CV_QianHu.pdf
-#permalink: /cv/
+#permalink: /files/CV_QianHu.pdf
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -10,51 +10,18 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+In brief: 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# Education
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D student in Physics and Astronomy, [Institute for Gravitational Research](http://www.physics.gla.ac.uk/igr/index.php), [University of Glasgow](https://www.gla.ac.uk), start from Sep. 2021
+* Undergraduate Research Intern, [OzGrav](https://www.gravity.uwa.edu.au), [University of Western Australia](https://www.uwa.edu.au), 2019 - 2021
+* B.S. (Hon.) in Astronomy, [School of Physical Sciences](http://en.physics.ustc.edu.cn), [University of Science and Technology of China](http://en.ustc.edu.cn), 2017 - 2021
+* [Hefei No.1 Middle School](http://www.hfyz.net/index/), 2014 - 2017
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Long-term Research Interests
+
+* Gravitational-Wave (GW) Astrophysics: Exploring GW’s physical implications, including black holes, neutron stars, and cosmology.
+* GW Parameter Estimation Techniques: High-precision and robust parameter estimation for GWs; Parameter estimation for next generation GW detectors.
+
+A full CV can be found [here](marinerq.github.io/files/CV_QianHu.pdf).
