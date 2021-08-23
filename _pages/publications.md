@@ -10,7 +10,11 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+# Test
 
+Here is a [test link](../_publications/model_indpd_testPV.md)
+<!-- 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+-->
