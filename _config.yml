@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Qian Hu's Homepage"
 title_separator          : "-"
-name                     : &name "Qian Hu (胡潜)"
+name                     : &name "Qian Hu"
 description              : &description "personal description"
 url                      : https://marinerq.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qian Hu"
+  name             : "Qian Hu (胡潜)"
   avatar           : "MyGradPhoto.png"
   bio              : "PhD Student at University of Glasgow"
   location         : "Glasgow, UK"
