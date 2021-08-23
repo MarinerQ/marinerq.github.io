@@ -14,7 +14,6 @@ author_profile: true
 
 Here is a [test link](../_publications/model_indpd_testPV.md)
 
-<!-- {% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
--->
+[comment]: {% for post in site.publications reversed %}
+[comment]:  {% include archive-single.html %}
+[comment]: {% endfor %}
