@@ -13,8 +13,8 @@ author_profile: true
 # Test
 
 Here is a [test link](../_publications/model_indpd_testPV.md)
-<!-- 
-{% for post in site.publications reversed %}
+
+<!-- {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 -->
