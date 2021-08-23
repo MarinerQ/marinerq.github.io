@@ -19,7 +19,7 @@ author_profile: true
 ### 2021
 * **Qian Hu**, Mingzheng Li, Rui Niu, and Wen Zhao. *Joint Observations of Space-borne Gravitationalwave Detectors: Source Localization and Implication for Parity-violating Gravity*, Phys. Rev. D 103, 064057
     * Bayesian parameter estimation on space-borne GW detectors. We investigated the improvements of GW source localization and constraint on parity-violating gravity given by space-borne GW detector networks. 
-    * You may find the paper in the [arXiv link](https://arxiv.org/abs/2006.05670) and [paper url](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.064057)
+    * You may find the paper in the [arXiv link](https://arxiv.org/abs/2006.05670) and [paper url](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.064057).
 
 
 ### 2020
