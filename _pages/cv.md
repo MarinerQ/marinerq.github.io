@@ -12,14 +12,14 @@ redirect_from:
 
 In brief: 
 
-# Education
+### Education
 
 * Ph.D student in Physics and Astronomy, [Institute for Gravitational Research](http://www.physics.gla.ac.uk/igr/index.php), [University of Glasgow](https://www.gla.ac.uk), start from Sep. 2021
 * Undergraduate Research Intern, [OzGrav](https://www.gravity.uwa.edu.au), [University of Western Australia](https://www.uwa.edu.au), 2019 - 2021
 * B.S. (Hon.) in Astronomy, [School of Physical Sciences](http://en.physics.ustc.edu.cn), [University of Science and Technology of China](http://en.ustc.edu.cn), 2017 - 2021
 * [Hefei No.1 Middle School](http://www.hfyz.net/index/), 2014 - 2017
 
-# Long-term Research Interests
+### Long-term Research Interests
 
 * Gravitational-Wave (GW) Astrophysics: Exploring GW’s physical implications, including black holes, neutron stars, and cosmology.
 * GW Parameter Estimation Techniques: High-precision and robust parameter estimation for GWs; Parameter estimation for next generation GW detectors.
