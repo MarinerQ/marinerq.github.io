@@ -19,13 +19,17 @@ author_profile: true
 ### 2021
 * **Qian Hu**, Mingzheng Li, Rui Niu, and Wen Zhao. *Joint Observations of Space-borne Gravitationalwave Detectors: Source Localization and Implication for Parity-violating Gravity*, Phys. Rev. D 103, 064057
     * Bayesian parameter estimation on space-borne GW detectors. We investigated the improvements of GW source localization and constraint on parity-violating gravity given by space-borne GW detector networks. 
-    * You may find the paper in the [arXiv link](https://arxiv.org/abs/2006.05670) and [paper url](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.064057).
+    * [arXiv link](https://arxiv.org/abs/2006.05670) and [paper url](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.064057).
+  
+* **Qian Hu**, Cong Zhou, Jhao-Hong Peng, Linqing Wen, Qi Chu, Manoj Kovalam. *Semi-analytical Approach for Sky Localization of Gravitational Waves*, arxiv:2110.01874, submitted to PRD.
+    * A fast GW source localization method for compact binary coalescences, and will be implemented into online detection pipeline SPIIR.
+    * [arXiv link](https://arxiv.org/abs/2110.01874).
 
 
 ### 2020
 * Wen Zhao, Tan Liu, Linqing Wen, Tao Zhu, Anzhong Wang, **Qian Hu**, and Cong Zhou. *Model-independent test of the parity symmetry of gravity with gravitational waves*, The European Physical Journal C, 80(7), Jul 2020.
     * A method to decompose the circular polarizations of GWs produced during the inspiralling stage of compact binaries with the help of stationary phase approximation. A model-independent test of the parity symmetry of gravity.
-    * You may find the paper in the [arXiv link](https://arxiv.org/abs/1909.13007) and [paper url](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-020-8211-4).
+    * [arXiv link](https://arxiv.org/abs/1909.13007) and [paper url](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-020-8211-4).
 
 
 
