@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & Talks"
 permalink: /publications/
 author_profile: true
 
@@ -15,6 +15,8 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
+
+A full publication list on NASA/ADS can be found [here](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-3033-6491&sort=date%20desc%2C%20bibcode%20desc).
 
 ### 2021
 * **Qian Hu**, Mingzheng Li, Rui Niu, and Wen Zhao. *Joint Observations of Space-borne Gravitationalwave Detectors: Source Localization and Implication for Parity-violating Gravity*, Phys. Rev. D 103, 064057
