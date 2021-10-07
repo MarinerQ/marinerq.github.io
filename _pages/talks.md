@@ -18,4 +18,4 @@ author_profile: true
 ---
 ### 2021
 * Semi-analytical Approach for Sky Localization of Gravitational Waves, CBC East Call, Sep.14 2021.
-    * A 15+5 minutes talk about the localization paper ([arXiv link](https://arxiv.org/abs/2110.01874)).
+    * A 15+5 minutes talk about the localization paper ([arXiv:2110.01874](https://arxiv.org/abs/2110.01874)).
