@@ -23,7 +23,7 @@ A full publication list on NASA/ADS can be found [here](https://ui.adsabs.harvar
     * Bayesian parameter estimation on space-borne GW detectors. We investigated the improvements of GW source localization and constraint on parity-violating gravity given by space-borne GW detector networks. 
     * [arXiv link](https://arxiv.org/abs/2006.05670) and [paper url](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.064057).
   
-* **Qian Hu**, Cong Zhou, Jhao-Hong Peng, Linqing Wen, Qi Chu, Manoj Kovalam. *Semi-analytical Approach for Sky Localization of Gravitational Waves*, arXiv:2110.01874, submitted to PRD.
+* **Qian Hu**, Cong Zhou, Jhao-Hong Peng, Linqing Wen, Qi Chu, Manoj Kovalam. *Semi-analytical Approach for Sky Localization of Gravitational Waves*, arXiv:2110.01874, accepted by PRD.
     * A fast GW source localization method for compact binary coalescences, and will be implemented into online detection pipeline SPIIR.
     * [arXiv link](https://arxiv.org/abs/2110.01874).
 
