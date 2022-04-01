@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+* *Physics 1*, Teaching Assistant, 2021-2022 Semester 2, University of Glasgow
+    * Introductory Physics for undergraduates.
 * *Classical Mechanics and Electrodynamics*, Teaching Assistant, 2020 Fall, USTC
     * A course for junior students in Department of Chemical Physics at USTC.
 * *Astronomical Labs*, software design & development, July 2020 - Dec 2020, USTC

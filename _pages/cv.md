@@ -20,7 +20,7 @@ In brief:
 
 ### Long-term Research Interests
 
+* GW Parameter Estimation Techniques: High-precision and robust parameter estimation for GWs; Parameter estimation and detection for next generation GW detectors.
 * Gravitational-Wave (GW) Astrophysics: Exploring GW’s physical implications, including black holes, neutron stars, modified gravity, and cosmology.
-* GW Parameter Estimation Techniques: High-precision and robust parameter estimation for GWs; Parameter estimation for next generation GW detectors.
 
 A full CV can be found [here](../files/CV_QianHu.pdf).
