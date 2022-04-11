@@ -29,17 +29,17 @@ A full publication list on NASA/ADS can be found [here](https://ui.adsabs.harvar
 ### 2021
 * **Qian Hu**, Mingzheng Li, Rui Niu, and Wen Zhao. *Joint Observations of Space-based Gravitational-wave Detectors: Source Localization and Implication for Parity-violating Gravity*, Phys. Rev. D 103, 064057 (2021). 
     * Bayesian parameter estimation on space-borne GW detectors. We investigated the improvements of GW source localization and constraint on parity-violating gravity given by space-borne GW detector networks. 
-    * [arXiv:2006.05670](https://arxiv.org/abs/2006.05670) and [journal url](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.064057).
+    * [arXiv:2006.05670](https://arxiv.org/abs/2006.05670) and [PRD 103, 064057 (2021)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.064057).
   
 * **Qian Hu**, Cong Zhou, Jhao-Hong Peng, Linqing Wen, Qi Chu, Manoj Kovalam. *Semianalytical Approach for Sky Localization of Gravitational Waves*, Phys. Rev. D 104, 104008 (2021).
     * A fast GW source localization method for compact binary coalescences, and will be implemented into online detection pipeline SPIIR for O4.
-    * [arXiv:2110.01874](https://arxiv.org/abs/2110.01874), [journal url](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.104008) and [LIGO-P2100261](https://dcc.ligo.org/LIGO-P2100261)
+    * [arXiv:2110.01874](https://arxiv.org/abs/2110.01874), [PRD 104, 104008 (2021)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.104008) and [LIGO-P2100261](https://dcc.ligo.org/LIGO-P2100261)
 
 
 ### 2020
 * Wen Zhao, Tan Liu, Linqing Wen, Tao Zhu, Anzhong Wang, **Qian Hu**, and Cong Zhou. *Model-independent test of the parity symmetry of gravity with gravitational waves*, The European Physical Journal C, 80(7), Jul 2020.
     * A method to decompose the circular polarizations of GWs produced during the inspiralling stage of compact binaries with the help of stationary phase approximation. A model-independent test of the parity symmetry of gravity.
-    * [arXiv:1909.13007](https://arxiv.org/abs/1909.13007), [journal url](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-020-8211-4) and [LIGO-P1900265](https://dcc.ligo.org/LIGO-P1900265).
+    * [arXiv:1909.13007](https://arxiv.org/abs/1909.13007), [EPJC 80 (7), 1-9](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-020-8211-4) and [LIGO-P1900265](https://dcc.ligo.org/LIGO-P1900265).
 
 
 

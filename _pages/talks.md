@@ -17,7 +17,11 @@ author_profile: true
 #{% endfor %}
 ---
 ### 2022
-* Quantitative measurement of model differences for CBCs, 2022 LVK Collaboration Meeting, Mar 14 2022.
+* On the model waveform accuracy of gravitational waves, BritGrav 2022 (online), Apr 4 2022.
+  * A subset of [the talk on LVK March meeting](../files/slides/wavediff_LVK2022meeting_PE.pdf).
+  * [Slides](../files/slides/wavediff_BritGrav.pdf), [YouTube](https://www.youtube.com/channel/UCi7dJBbZS3DmmHCaLGMKU1A/videos).
+
+* Quantitative measurement of model differences for CBCs, 2022 LVK Collaboration Meeting (online), Mar 14 2022.
   * A 15+5 minutes talk about a new waveform accuracy assessment method. 
   * [Slides](../files/slides/wavediff_LVK2022meeting_PE.pdf), [LIGO-G2200415](https://dcc.ligo.org/LIGO-G2200415).
 
