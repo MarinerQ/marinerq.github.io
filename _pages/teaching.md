@@ -16,5 +16,5 @@ author_profile: true
 * *Classical Mechanics and Electrodynamics*, Teaching Assistant, 2020 Fall, USTC
     * A course for junior students in Department of Chemical Physics at USTC.
 * *Astronomical Labs*, software design & development, July 2020 - Dec 2020, USTC
-    * As a menber of the national virtual experimental teaching project, I helped design and develop an educational application of GW data simulation, data analysis and Bayesian parameter estimation for physical experimental teaching.
-    * The software will be employed in experimental teaching for junior students major in astronomy at USTC from 2021.
+    * As a member of the national virtual experimental teaching project, I helped design and develop an educational application of GW data simulation, data analysis and Bayesian parameter estimation for physical experimental teaching.
+    * The software will be employed in experimental teaching for junior students majoring in astronomy at USTC.
