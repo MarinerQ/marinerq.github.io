@@ -23,7 +23,7 @@ A full publication list on NASA/ADS can be found [here](https://ui.adsabs.harvar
     * A new approach to evaluate GW waveform accuracy by looking into difference between two waveform models. It's free from the unknown true waveform or numerical relativity simulations.
     * Applied to GTWC-3 and GWTC-2.1 posterior samples to evaluate waveform model accuracy: with current detector sensitivity we can make loud detections in which waveform models fail our test. What to do with the future?
     * Applied to simulations: high spins and low mass ratio are the "bad" regions in the parameter space - the former is more problematic!
-    * [LIGO-P2200107](https://dcc.ligo.org/P2200107).
+    * [arXiv:2205.08448](https://arxiv.org/abs/2205.08448) and [LIGO-P2200107](https://dcc.ligo.org/P2200107).
 
 
 ### 2021
