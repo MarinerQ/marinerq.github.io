@@ -16,10 +16,10 @@ author_profile: true
 
 {% include base_path %}
 
-A full publication list on NASA/ADS can be found [here](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-3033-6491&sort=date%20desc%2C%20bibcode%20desc).
+Full lists on [NASA/ADS](https://ui.adsabs.harvard.edu/search/p_=0&q=orcid%3A0000-0002-3033-6491&sort=date%20desc%2C%20bibcode%20desc), [INSPIRE-HEP](https://inspirehep.net/authors/2086345?ui-citation-summary=true) and [Google Scholar](https://scholar.google.com/citations?user=FW2tQSwAAAAJ&hl=en).
 
 ### 2022
-* **Qian Hu**, John Veitch, *Assessing the model waveform accuracy of gravitational waves*. Submitted to LIGO P&P review.
+* **Qian Hu**, John Veitch, *Assessing the model waveform accuracy of gravitational waves*. Under review.
     * A new approach to evaluate GW waveform accuracy by looking into difference between two waveform models. It's free from the unknown true waveform or numerical relativity simulations.
     * Applied to GTWC-3 and GWTC-2.1 posterior samples to evaluate waveform model accuracy: with current detector sensitivity we can make loud detections in which waveform models fail our test. What to do with the future?
     * Applied to simulations: high spins and low mass ratio are the "bad" regions in the parameter space - the former is more problematic!
