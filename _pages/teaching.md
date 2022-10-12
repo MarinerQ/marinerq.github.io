@@ -19,4 +19,4 @@ author_profile: true
     * A course for junior students in Department of Chemical Physics at USTC.
 * *Astronomical Labs*, software design & development, July 2020 - Dec 2020, USTC
     * As a member of the national virtual experimental teaching project, I helped design and develop an educational application of GW data simulation, data analysis and Bayesian parameter estimation for physical experimental teaching.
-    * The software will be employed in experimental teaching for junior students majoring in astronomy at USTC.
+    * The software will be employed in experimental teaching in department of astronomy at USTC.

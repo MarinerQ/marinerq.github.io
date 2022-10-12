@@ -17,18 +17,18 @@ author_profile: true
 #{% endfor %}
 ---
 ### 2022
+* Systematic error accumulation in parametric tests of general relativity with gravitational waves: overlap signals and inaccurate waveforms, ET-OSB-DA telecon, Oct 10 2022.  
+  * [Slides](../files/slides/SysError221010ET.pdf).
+
 * Assessing the model waveform accuracy of gravitational waves, invited talk for TianQin group at SYSU, June 9 2022.
   * [Slides](../files/slides/wavediff_toTianQin202206.pdf).
   
 * On the model waveform accuracy of gravitational waves, BritGrav 2022 (online), Apr 4 2022.
-  * A subset of the talk on LVK March meeting.
   * [Slides](../files/slides/wavediff_BritGrav.pdf), [YouTube](https://www.youtube.com/channel/UCi7dJBbZS3DmmHCaLGMKU1A/videos).
 
 * Quantitative measurement of model differences for CBCs, 2022 LVK Collaboration Meeting (online), Mar 14 2022.
-  * A 15+5 minutes talk about a new waveform accuracy assessment method. 
   * [Slides](../files/slides/wavediff_LVK2022meeting_PE.pdf), [LIGO-G2200415](https://dcc.ligo.org/LIGO-G2200415).
 
 ### 2021
 * Semi-analytical Approach for Sky Localization of Gravitational Waves, CBC East Call, Sep 14 2021.
-    * A 15+5 minutes talk about the semi-analytical localization method paper ([arXiv:2110.01874](https://arxiv.org/abs/2110.01874)). 
-    * [Slides](../files/slides/semoloc_report.pdf), [LIGO-G2102031](https://dcc.ligo.org/LIGO-G2102031).
+  * [Slides](../files/slides/semoloc_report.pdf), [LIGO-G2102031](https://dcc.ligo.org/LIGO-G2102031).
