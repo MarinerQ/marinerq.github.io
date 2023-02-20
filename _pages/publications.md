@@ -19,7 +19,7 @@ author_profile: true
 Full list on [INSPIRE-HEP](https://inspirehep.net/authors/2086345?ui-citation-summary=true).
 
 ### 2022
-* **Qian Hu**, John Veitch, *Accumulating errors in tests of general relativity with the Einstein Telescope: overlapping signals and inaccurate waveforms*. 
+* **Qian Hu**, John Veitch, *Accumulating errors in tests of general relativity with gravitational waves: overlapping signals and inaccurate waveforms*. 
     * Systematic error can accumulate in a CBC catalog and lead to a false deviation of GR.
     * Inaccurate waveforms contribute to most of the error, and overlapping signals magnify the impact of waveform systematics.
     * "Golden events" are even more vulnerable to systematic errors. 
