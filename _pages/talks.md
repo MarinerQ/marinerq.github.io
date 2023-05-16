@@ -16,8 +16,12 @@ author_profile: true
 #  {% include archive-single-talk.html %}
 #{% endfor %}
 ---
+### 2023
+* Systematic error accumulation in testing GR: Overlapping signals and waveform systematics, XIII ET Symposium, 10 May 2023, Cagliari, Italy.
+  * [Slides](../files/slides/SysError2305ETSymposium.pdf).
+  
 ### 2022
-* Systematic error accumulation in parametric tests of general relativity with gravitational waves: overlap signals and inaccurate waveforms, ET-OSB-DA telecon, Oct 10 2022.  
+* Systematic error accumulation in parametric tests of general relativity with gravitational waves: overlap signals and inaccurate waveforms, ET-OSB-Div10, Oct 10 2022.  
   * [Slides](../files/slides/SysError221010ET.pdf).
 
 * Assessing the model waveform accuracy of gravitational waves, invited talk for TianQin group at SYSU, June 9 2022.
