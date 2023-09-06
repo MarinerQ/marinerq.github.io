@@ -16,7 +16,11 @@ author_profile: true
 
 {% include base_path %}
 
-Full list on [INSPIRE-HEP](https://inspirehep.net/authors/2086345?ui-citation-summary=true). The following list does not include LVK collaboration papers. 
+Full list on [INSPIRE-HEP](https://inspirehep.net/authors/2086345?ui-citation-summary=true). 
+
+### 2023
+* **Qian Hu**, John Veitch, Rapid pre-merger localization of binary neutron stars in third generation gravitational wave detectors. [arXiv:2309.00970](https://arxiv.org/abs/2309.00970), [ET-0289A-23](https://apps.et-gw.eu/tds/?content=3&r=18417). 
+    * SealGW x Multi-banding: A demonstration of localizing long signals in 3G detectors.
 
 ### 2022
 * **Qian Hu**, John Veitch, Accumulating errors in tests of general relativity with gravitational waves: overlapping signals and inaccurate waveforms. [arXiv:2210.04769](https://arxiv.org/abs/2210.04769), [Astrophys.J. 945 (2023) 2, 103](https://iopscience.iop.org/article/10.3847/1538-4357/acbc18), [ET-0211A-22](https://apps.et-gw.eu/tds/?content=3&r=17985). 
@@ -35,7 +39,8 @@ Full list on [INSPIRE-HEP](https://inspirehep.net/authors/2086345?ui-citation-su
     * Bayesian parameter estimation on space-borne GW detectors. We investigated the improvements of GW source localization and constraint on parity-violating gravity given by space-borne GW detector networks. 
   
 * **Qian Hu**, Cong Zhou, Jhao-Hong Peng, Linqing Wen, Qi Chu, Manoj Kovalam. Semianalytical Approach for Sky Localization of Gravitational Waves. [arXiv:2110.01874](https://arxiv.org/abs/2110.01874), [PRD 104, 104008 (2021)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.104.104008) and [LIGO-P2100261](https://dcc.ligo.org/LIGO-P2100261).
-    * A fast GW source localization method for compact binary coalescences, and will be implemented into online detection pipeline SPIIR for O4.
+    * A fast GW source localization method for compact binary coalescences, and is implemented into online detection pipeline SPIIR.
+    * Check out [SealGW](https://git.ligo.org/spiir-group/SealGW)! 
 
 
 ### 2020

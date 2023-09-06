@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-* *Astronomy 1*, Teaching Assistant, 2022-2023 Semester 1, University of Glasgow
+* *Astronomy 1*, Teaching Assistant, 2022-2023 Semester 1&2, 2023-2024 Semester 1, University of Glasgow
     * Introductory Astronomy for undergraduates.
 * *Physics 1*, Teaching Assistant, 2021-2022 Semester 2, University of Glasgow
     * Introductory Physics for undergraduates.

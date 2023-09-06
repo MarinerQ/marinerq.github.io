@@ -17,6 +17,8 @@ author_profile: true
 #{% endfor %}
 ---
 ### 2023
+* Realtime pre-merger localization of BNS in 3G GW detectors, National Astronomy Meeting 2023 (NAM23), 7 July 2023, Cardiff, UK. [Slides](../files/slides/ewloc_NAM2023.pdf).
+  
 * Systematic error accumulation in testing GR: Overlapping signals and waveform systematics, XIII ET Symposium, 10 May 2023, Cagliari, Italy. [Slides](../files/slides/SysError2305ETSymposium.pdf).
   
 ### 2022
@@ -24,7 +26,7 @@ author_profile: true
 
 * Assessing the model waveform accuracy of gravitational waves, invited talk for TianQin group at SYSU (online), June 9 2022. [Slides](../files/slides/wavediff_toTianQin202206.pdf).
   
-* On the model waveform accuracy of gravitational waves, BritGrav 2022 (online), Apr 4 2022. [Slides](../files/slides/wavediff_BritGrav.pdf), [YouTube](https://www.youtube.com/channel/UCi7dJBbZS3DmmHCaLGMKU1A/videos).
+* On the model waveform accuracy of gravitational waves, BritGrav 2022 (online), Apr 4 2022. [Slides](../files/slides/wavediff_BritGrav.pdf).
 
 * Quantitative measurement of model differences for CBCs, 2022 LVK Collaboration Meeting (online), Mar 14 2022. [Slides](../files/slides/wavediff_LVK2022meeting_PE.pdf), [LIGO-G2200415](https://dcc.ligo.org/LIGO-G2200415).
 
