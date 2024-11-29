@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Qian Hu (胡潜)"
   avatar           : "MyGradPhoto.png"
-  bio              : "PhD Student at University of Glasgow"
+  bio              : "Postdoctoral Researcher at University of Glasgow"
   location         : "Glasgow, UK"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "q.hu.2@research.gla.ac.uk"
+  email            : "qian.hu@glasgow.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0000-0002-3033-6491 #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
