@@ -20,11 +20,12 @@ Full publication list including collaboration papers can be found at: [INSPIRE-H
 
 
 ### 2024
-* **Qian Hu**, John Veitch, Costs of Bayesian Parameter Estimation in Third-Generation Gravitational Wave Detectors: a Review of Acceleration Methods. [ET-0683A-24](https://apps.et-gw.eu/tds/ql/?c=17701). 
+* **Qian Hu**, Jessica Irwin, Qi Sun, Chris Messenger, Lami Suleiman, Ik Siong Heng, John Veitch, Decoding long-duration GW from BNS with machine learning: Parameter estimation and equations of state. [arXiv: 2412.03454](https://arxiv.org/abs/2412.03454),  [ET-0666A-24](https://apps.et-gw.eu/tds/ql/?c=17684), [LIGO-P2400567](https://dcc.ligo.org/P2400567/). 
+    * Machine learning approaches for fast parameter estimation and equation of state inference for long-duration GW signals. O(1000) CPU hours -> O(1) seconds. 
+  
+* **Qian Hu**, John Veitch, Costs of Bayesian Parameter Estimation in Third-Generation Gravitational Wave Detectors: a Review of Acceleration Methods. [arXiv: 2412.02651](https://arxiv.org/abs/2412.02651), [ET-0683A-24](https://apps.et-gw.eu/tds/ql/?c=17701). 
     * How will current parameter estimation methods scale in 3G detectors? Keywords: millions, billions, and quadrillions. 
 
-* **Qian Hu**, Jessica Irwin, Qi Sun, Chris Messenger, Lami Suleiman, Ik Siong Heng, John Veitch, Decoding long-duration GW from BNS with machine learning: Parameter estimation and equations of state. [ET-0666A-24](https://apps.et-gw.eu/tds/ql/?c=17684), [LIGO-P2400567](https://dcc.ligo.org/P2400567/). 
-    * Machine learning approaches for fast parameter estimation and equation of state inference for long-duration GW signals. O(1000) CPU hours -> O(1) seconds. 
 
 ### 2023
 * **Qian Hu**, John Veitch, Rapid pre-merger localization of binary neutron stars in third generation gravitational wave detectors. [arXiv:2309.00970](https://arxiv.org/abs/2309.00970), [ET-0289A-23](https://apps.et-gw.eu/tds/?content=3&r=18417). 
