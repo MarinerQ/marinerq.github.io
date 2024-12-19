@@ -28,7 +28,7 @@ Full publication list including collaboration papers can be found at: [INSPIRE-H
 
 
 ### 2023
-* **Qian Hu**, John Veitch, Rapid pre-merger localization of binary neutron stars in third generation gravitational wave detectors. [arXiv:2309.00970](https://arxiv.org/abs/2309.00970), [ET-0289A-23](https://apps.et-gw.eu/tds/?content=3&r=18417). 
+* **Qian Hu**, John Veitch, Rapid pre-merger localization of binary neutron stars in third generation gravitational wave detectors. [arXiv:2309.00970](https://arxiv.org/abs/2309.00970), [Astrophys.J.Lett. 958 (2023) 2, L43 ](https://iopscience.iop.org/article/10.3847/2041-8213/ad0ed4), [ET-0289A-23](https://apps.et-gw.eu/tds/?content=3&r=18417). 
     * SealGW x Multi-banding: A demonstration of localizing long signals in 3G detectors.
 
 ### 2022
