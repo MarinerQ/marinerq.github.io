@@ -20,7 +20,7 @@ Full publication list including collaboration papers can be found at: [INSPIRE-H
 
 
 ### 2024
-* **Qian Hu**, Jessica Irwin, Qi Sun, Chris Messenger, Lami Suleiman, Ik Siong Heng, John Veitch, Decoding long-duration GW from BNS with machine learning: Parameter estimation and equations of state. [arXiv: 2412.03454](https://arxiv.org/abs/2412.03454),  [ET-0666A-24](https://apps.et-gw.eu/tds/ql/?c=17684), [LIGO-P2400567](https://dcc.ligo.org/P2400567/). 
+* **Qian Hu**, Jessica Irwin, Qi Sun, Chris Messenger, Lami Suleiman, Ik Siong Heng, John Veitch, Decoding long-duration GW from BNS with machine learning: Parameter estimation and equations of state. [arXiv: 2412.03454](https://arxiv.org/abs/2412.03454), [Astrophys.J.Lett. 987 (2025) 1, L17 ](https://iopscience.iop.org/article/10.3847/2041-8213/ade42f) [ET-0666A-24](https://apps.et-gw.eu/tds/ql/?c=17684), [LIGO-P2400567](https://dcc.ligo.org/P2400567/). 
     * Machine learning approaches for fast parameter estimation and equation of state inference for long-duration GW signals. O(1000) CPU hours -> O(1) seconds. 
   
 * **Qian Hu**, John Veitch, Costs of Bayesian Parameter Estimation in Third-Generation Gravitational Wave Detectors: a Review of Acceleration Methods. [arXiv: 2412.02651](https://arxiv.org/abs/2412.02651), [ET-0683A-24](https://apps.et-gw.eu/tds/ql/?c=17701). 
