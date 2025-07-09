@@ -17,11 +17,15 @@ author_profile: true
 #{% endfor %}
 ---
 ### 2025
-* (Forthcoming) Seminar at TianQin center, Sun Yat-Sen University. Jan 8 2025.
+*  (upcoming) Solving tough inference problems for the next-generation gravitational wave detectors with machine learning: long signals and overlapping signals. GR24-Amaldi16, July 2025, Glasgow, UK.
+
+*  (upcoming) Costs of Bayesian Parameter Estimation in Third-Generation Gravitational Wave Detectors (poster). GR24-Amaldi16, July 2025, Glasgow, UK.
+
+* Seminar at TianQin center, Sun Yat-Sen University. Jan 8 2025.
 
 
 ### 2024
-* (Forthcoming) Seminar at the University of Science and Technology of China. Dec 24 2024.
+* Seminar at the University of Science and Technology of China. Dec 24 2024.
   
 * Seminar at the Kavli Institute for Astronomy and Astrophysics at Peking University. Dec 11 2024.
   
