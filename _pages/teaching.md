@@ -11,8 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-* *Gravitational Wave Detection*, Co-Lecturer, 2024, University of Glasgow
-    * Graduate course on gravitational wave astronomy. [Slides](../files/teaching/GWD_DA1_2024.pdf)
+* *Gravitational Wave Detection*, Co-Lecturer, 2024 & 2025, University of Glasgow
+    * Graduate course on gravitational wave astronomy. 
 * *Astronomy 1*, Teaching Assistant, 2022-2024, University of Glasgow
     * Introductory Astronomy for undergraduates.
 * *Physics 1*, Teaching Assistant, 2021-2022, University of Glasgow
