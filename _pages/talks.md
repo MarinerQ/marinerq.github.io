@@ -17,6 +17,10 @@ author_profile: true
 #{% endfor %}
 ---
 ### 2025
+* Hierarchical Subtraction with Neural Density Estimators as a General Solution to Overlapping Gravitational Wave Signals. ET 4th Annual Meeting, Nov 2025, Opatija, Croatia.
+
+* Costs of Bayesian Parameter Estimation in Third-Generation Gravitational Wave Detectors (poster). ET 4th Annual Meeting, Nov 2025, Opatija, Croatia.
+
 * Seminar at the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) at Potsdam, Germany. Oct 15 2025.
 
 * Hierarchical Subtraction with Neural Density Estimators as a General Solution to Overlapping Gravitational Wave Signals. 2025 September LVK Meeting, Fort Collins, Colorado, US (online).
