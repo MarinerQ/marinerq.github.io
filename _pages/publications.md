@@ -19,6 +19,10 @@ author_profile: true
 Full publication list including collaboration papers can be found at: [INSPIRE-HEP](https://inspirehep.net/authors/2086345?ui-citation-summary=true) and [Google Scholar](https://scholar.google.com/citations?user=FW2tQSwAAAAJ&hl=en). 
 
 ## 2025
+* **Qian Hu**, Harsh Narola, Jef Heynen, Mick Wright, John Veitch, Justin Janquart, Chris Van Den Broeck, GW231123: Overlapping Gravitational Wave Signals? [arXiv:2512.17550](https://arxiv.org/abs/2512.17550), [Astrophys.J. 1003 (2026) 2, 187](https://doi.org/10.3847/1538-4357/ae6811).
+    * An overlapping-signal model is favored over an isolated signal for GW231123 and largely mitigates waveform-dependent parameter discrepancies.
+    * Astrophysical rate estimates disfavor a chance overlap; gravitational lensing remains a possible explanation.
+
 * **Qian Hu**, Hierarchical Subtraction with Neural Density Estimators as a General Solution to Overlapping Gravitational Wave Signals. [arXiv:2507.05209](https://arxiv.org/abs/2507.05209). 
     * Parameter estimation models for non-overlapping signals can be used for overlapping signals. 
 

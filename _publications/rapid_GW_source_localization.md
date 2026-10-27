@@ -10,7 +10,7 @@ submit: 'Physical Review D'
 #citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 authors: 'Qian Hu, Cong Zhou, Jhao-Hong Peng, Linqing Wen, Qi Chu, Manoj Kovalam'
 ---
-In this work, we derived a semi-analytical solution of the Bayesian posterior probability for GW source sky location with a SNR-dependent bimodal prior distribution for extrinsic parameters. We simulated GW 50000 events in both design and O2 sensitivity of LIGO and VIRGO to test the performance of this algorithm. This semi-analytical algorithm showed good self-consistency and is expected to have low latency. It will be implemented to the online GW detection pipeline SPIIR in the future. 
+In this work, we derived a semi-analytical solution of the Bayesian posterior probability for GW source sky location with a SNR-dependent bimodal prior distribution for extrinsic parameters. 
 
 ---
 

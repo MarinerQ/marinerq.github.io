@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my homepage!
 
-I'm a postdoctoral researcher at [Institute for Gravitational Research](http://www.physics.gla.ac.uk/igr/index.php), University of Glasgow, where I also obtained my PhD. Before coming to Glasgow, I was an undergraduate at University of Science and Technology of China (USTC) majoring in astrophysics. 
+I'm a Research Fellow in the [Institute of Gravitational Wave Astronomy](https://www.sr.bham.ac.uk/gwgroup/) at the University of Birmingham. Previously, I was a postdoctoral researcher at the [Institute for Gravitational Research](http://www.physics.gla.ac.uk/igr/index.php), University of Glasgow, where I also obtained my PhD. Before that, I was an undergraduate at University of Science and Technology of China (USTC) majoring in astrophysics.
 
 My research mainly focuses on:
 
@@ -25,4 +25,4 @@ My research mainly focuses on:
   * Application of machine learning to GW data analysis: detection, parameter estimation, and population and cosmological inference.
 
 ---
-Last updated: October 2025.
+Last updated: October 2026.
