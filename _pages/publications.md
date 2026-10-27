@@ -58,10 +58,3 @@ Full publication list including collaboration papers can be found at: [INSPIRE-H
     * A fast GW source localization method for compact binary coalescences, and is implemented into online detection pipeline SPIIR.
     * Check out [SealGW](https://git.ligo.org/spiir-group/SealGW)! 
 
-
-### 2020
-* Wen Zhao, Tan Liu, Linqing Wen, Tao Zhu, Anzhong Wang, **Qian Hu**, and Cong Zhou. Model-independent test of the parity symmetry of gravity with gravitational waves. [arXiv:1909.13007](https://arxiv.org/abs/1909.13007), [EPJC 80 (7), 1-9](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-020-8211-4).
-    * A method to decompose the circular polarizations of GWs produced during the inspiralling stage of compact binaries with the help of stationary phase approximation. A model-independent test of the parity symmetry of gravity.
-
-
-
