@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my homepage!
 
-I'm a Research Fellow in the [Institute of Gravitational Wave Astronomy](https://www.sr.bham.ac.uk/gwgroup/) at the University of Birmingham. Previously, I was a postdoctoral researcher at the [Institute for Gravitational Research](http://www.physics.gla.ac.uk/igr/index.php), University of Glasgow, where I also obtained my PhD. Before that, I was an undergraduate at University of Science and Technology of China (USTC) majoring in astrophysics.
+I'm a Research Fellow in the [Institute for Gravitational Wave Astronomy](https://www.sr.bham.ac.uk/gwgroup/) at the University of Birmingham. Previously, I was a postdoctoral researcher at the [Institute for Gravitational Research](http://www.physics.gla.ac.uk/igr/index.php), University of Glasgow, where I also obtained my PhD. Before that, I was an undergraduate at University of Science and Technology of China (USTC) majoring in astrophysics.
 
 My research mainly focuses on:
 

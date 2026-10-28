@@ -14,7 +14,7 @@ In brief:
 
 ### Employment
 
-* Research Fellow, [Institute of Gravitational Wave Astronomy](https://www.sr.bham.ac.uk/gwgroup/), University of Birmingham, 2026-present.
+* Research Fellow, [Institute for Gravitational Wave Astronomy](https://www.sr.bham.ac.uk/gwgroup/), University of Birmingham, 2026-present.
 * Research Associate, [Institute for Gravitational Research](http://www.physics.gla.ac.uk/igr/index.php), University of Glasgow, 2024-2026.
 
 ### Education
